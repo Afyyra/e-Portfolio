@@ -25,7 +25,7 @@
 + Sijil Matrikulasi : CGPA 3.57, 2023/2024
 + Bachelor of Computer Science (Graphic and Multimedia Software) with Honours : 2024 - Present
 
-## Other
+## Other Achievement
 + Muet : Band 3.5
 
 ## Skills
