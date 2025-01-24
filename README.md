@@ -57,30 +57,30 @@
 
 # 📝REFLECTION
 ## SECP1513 : Technology & Information System
-1. What I Gained : This course taught me about how information systems operate within a technological framework and problem solving skill
-2. Suggestion For Improvement : Incorporating more interactive and practical project would help us in applying what we learn in real life problem
-3. Personal Reflective : This course taught me the significance of technology in our lives, thus, we should know how to apply theoretical knowledge to solve real-world problems to contribute to society in advancing technology.
+- **What I Gained :** This course taught me about how information systems operate within a technological framework and problem solving skill
+- **Suggestion For Improvement :** Incorporating more interactive and practical project would help us in applying what we learn in real life problem
+- **Personal Reflective :** This course taught me the significance of technology in our lives, thus, we should know how to apply theoretical knowledge to solve real-world problems to contribute to society in advancing technology.
 ## SECI1013 : Discrete Structure
-1. What I Gained : This course help me build a solid foundation in mathematical concept that is essential to Computer Science
-2. Suggestion For Improvement : Using more interactive methods or giving more examples on how to solve problems will greatly benefit those who are slow learners.
-3. Personal Reflective : Studying this course has enhanced my critical and logical thinking . It also gave me a better understanding on how computer algorithm work.
++ **What I Gained :** This course help me build a solid foundation in mathematical concept that is essential to Computer Science
++ **Suggestion For Improvement :** Using more interactive methods or giving more examples on how to solve problems will greatly benefit those who are slow learners.
++ **Personal Reflective :** Studying this course has enhanced my critical and logical thinking . It also gave me a better understanding on how computer algorithm work.
 ## SECR1013 : Digital Logic
-1. What I Gained : This course help me gained in depth knowledge about digital circuit and logic gates 
-2. Suggestion For Improvement : More hands-on practice with building curcuit in Deeds or ETS5000 would help us understand better
-3. Personal Reflective : Learning this make me understand how computer and electronic device work.
+- **What I Gained :** This course help me gained in depth knowledge about digital circuit and logic gates 
+- **Suggestion For Improvement :** More hands-on practice with building curcuit in Deeds or ETS5000 would help us understand better
+- **Personal Reflective :** Learning this make me understand how computer and electronic device work.
 ## SECJ1013 : Programming Technique 1
-1. What I Gained : This course helped me improve my programming skill by learning how to use vscode, teaching basic programming language (C++) and how to debugging
-2. Suggestion For Improvement : I suggest that the course is more to practical rather than theoretical to fully enhance our understanding
-3. Personal Reflective : I found this course challenging and rewarding as I got to enhance my programming skill, critical thinking and problem solving skill increasing my value as a programmer
+1. **What I Gained :** This course helped me improve my programming skill by learning how to use vscode, teaching basic programming language (C++) and how to debugging
+2. **Suggestion For Improvement :** I suggest that the course is more to practical rather than theoretical to fully enhance our understanding
+3. **Personal Reflective :** I found this course challenging and rewarding as I got to enhance my programming skill, critical thinking and problem solving skill increasing my value as a programmer
 ## ULRF1961 : Civil Defence 1
-1. What I Gained : This course taught me basic skills in emergency response and disaster management
-2. Suggestion For Improvement : Increasing the hands-on session time will help us solidify practical skills
-3. Personal Reflective : This course helped me gained confidence in handling emergency situation and instilled discipline in me
+1. **What I Gained :** This course taught me basic skills in emergency response and disaster management
+2. **Suggestion For Improvement :** Increasing the hands-on session time will help us solidify practical skills
+3. **Personal Reflective :** This course helped me gained confidence in handling emergency situation and instilled discipline in me
 ## ULRS1032 : Integrity & Anti-Corruption
-1. What I Gained : This course taught me the importance of integrity in everyday life 
-2. Suggestion For Improvement : Providing more example or using role-playing exercise can help us practice to instilled integrity in simulated scenario
-3. Personal Reflective : Participating in this course helped me gained a strong sense of ethic and the importance of maintaining integrity in every situation.
+1. **What I Gained :** This course taught me the importance of integrity in everyday life 
+2. **Suggestion For Improvement :** Providing more example or using role-playing exercise can help us practice to instilled integrity in simulated scenario
+3. **Personal Reflective :** Participating in this course helped me gained a strong sense of ethic and the importance of maintaining integrity in every situation.
 ## ULHB1112 : English Communication Skills
-1. What I Gained : This course significantly helped me improve in both written and verbal communication
-2. Suggestion For Improvement : Incorporating more group discussion and presentation would help student to gain confidence in communication and make it more engaging
-3. Personal Reflective : This course helped me improve my communication skill which is valuable in both and professional setting.
+1. **What I Gained :** This course significantly helped me improve in both written and verbal communication
+2. **Suggestion For Improvement :** Incorporating more group discussion and presentation would help student to gain confidence in communication and make it more engaging
+3. **Personal Reflective :** This course helped me improve my communication skill which is valuable in both and professional setting.
