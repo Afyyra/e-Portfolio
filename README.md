@@ -10,10 +10,8 @@
 ## About Me  
 My name is Nur Elisa Afira, and I am a first-year student at Universiti Teknologi Malaysia, where I am pursuing a Bachelor’s degree in Computer Science (graphic and Multimedia software) with honour. I am passionate about programming, which has led me to delve deeply into this subject, and I am eager to learn and progress academically and personally.
 
-## Contact
-* Email : nurelisaafira@graduate.utm.my or elisa.afyyra@gmail.com
-* GitHub : https://github.com/Afyyra
-* LinkedIn : https://www.linkedin.com/in/nur-elisa-afira-mohd-nazir-b96ab9322
+## Personal Interest And Future Goals
+I am particularly keen on exploring Virtual reality and Augmented reality, and I am committed to leveraging my education to make meaningful contributions to technology development. 
 
 ## Academic Journey And Achievement
 + Ujian Penilaian Kelas Kafa (UPKK) : 7A 1B, 2016
@@ -85,3 +83,8 @@ My name is Nur Elisa Afira, and I am a first-year student at Universiti Teknolog
 - **What I Gained :** This course significantly helped me improve in both written and verbal communication
 - **Suggestion For Improvement :** Incorporating more group discussion and presentation would help student to gain confidence in communication and make it more engaging
 - **Personal Reflective :** This course helped me improve my communication skill which is valuable in both and professional setting.
+
+# 📱Contact
+* Email : nurelisaafira@graduate.utm.my or elisa.afyyra@gmail.com
+* GitHub : https://github.com/Afyyra
+* LinkedIn : https://www.linkedin.com/in/nur-elisa-afira-mohd-nazir-b96ab9322
