@@ -39,11 +39,11 @@
 + [SECP1513 : Technology & Information System](https://github.com/Afyyra/SECP1513)
 + SECI1013 : Discrete Structure
 + SECR1013 : Digital Logic
-+ SECJ1013 : Programming Technique 1
++ [SECJ1013 : Programming Technique 1](https://github.com/Afyyra/SECJ1013)
 
 ### Additional Course
-+ ULRS1032 : Integrity & Anti-Corruption
-+ ULHB1112 : English Communication Skills
++ [ULRS1032 : Integrity & Anti-Corruption](https://github.com/Afyyra/ULRS1032)
++ [ULHB1112 : English Communication Skills](https://github.com/Afyyra/ULHB1112)
 + ULRF1961 : Civil Defence 1
 
 # 🎖HONOURS AND AWARDS 
