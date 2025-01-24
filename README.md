@@ -14,16 +14,16 @@ My name is Nur Elisa Afira, and I am a first-year student at Universiti Teknolog
 I am particularly keen on exploring Virtual reality and Augmented reality, and I am committed to leveraging my education to make meaningful contributions to technology development. 
 
 ## Academic Journey And Achievement
-+ Ujian Penilaian Kelas Kafa (UPKK) : 7A 1B, 2016
-+ Sijil Darjah Enam Agama (SDEA) : 8A 1B, 2017
-+ Ujian Pencapaian Sekolah Rendah (UPSR) : 6A, 2017
-+ Sijil Darjah Khas Agama (SDKA) : Pangkat 1, 2018
-+ Sijil Pelajaran Malaysia (SPM) : 3A+ 3A 1A- 1B+ 1C, 2022/2023
-+ Sijil Matrikulasi : CGPA 3.57, 2023/2024
-+ Bachelor of Computer Science (Graphic and Multimedia Software) with Honours : 2024 - Present
++ Ujian Penilaian Kelas Kafa (UPKK) : **7A 1B, 2016**
++ Sijil Darjah Enam Agama (SDEA) : **8A 1B, 2017**
++ Ujian Pencapaian Sekolah Rendah (UPSR) : **6A, 2017**
++ Sijil Darjah Khas Agama (SDKA) : **Pangkat 1, 2018**
++ Sijil Pelajaran Malaysia (SPM) : **3A+ 3A 1A- 1B+ 1C, 2022/2023**
++ Sijil Matrikulasi : **CGPA 3.57, 2023/2024**
++ Bachelor of Computer Science (Graphic and Multimedia Software) with Honours : **2024 - Present**
 
 ## Other Achievement
-+ Muet : Band 3.5
++ Muet : **Band 3.5**
 
 ## Skills
 + Soft Skills : Communication, Teamwork, Leadership, Problem-Solving, Time Management
