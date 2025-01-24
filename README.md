@@ -36,7 +36,7 @@
 # 📚COURSES
 ## FIRST SEMESTER
 ### Main
-+ SECP1513 : Technology & Information System
++ [SECP1513 : Technology & Information System](https://github.com/Afyyra/SECP1513)
 + SECI1013 : Discrete Structure
 + SECR1013 : Digital Logic
 + SECJ1013 : Programming Technique 1
