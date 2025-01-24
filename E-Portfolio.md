@@ -49,4 +49,27 @@
 + Tempat Kedua : Youth Dodgeball by F7, 2024
 
 # 📝REFLECTION
-##
+## SECP1513 : Technology & Information System
+1. What I Gained :
+2. Suggestion For Improvement :
+3. Personal Reflective :
+## SECI1013 : Discrete Structur
+1. What I Gained :
+2. Suggestion For Improvement :
+3. Personal Reflective :
+## SECR1013 : Digital Logic
+1. What I Gained :
+2. Suggestion For Improvement :
+3. Personal Reflective :
+## SECJ1013 : Programming Technique 1
+1. What I Gained :
+2. Suggestion For Improvement :
+3. Personal Reflective :
+## ULRS1032 : Integrity & Anti-Corruption
+1. What I Gained :
+2. Suggestion For Improvement :
+3. Personal Reflective :
+## ULRF1961 : Civil Defence 1
+1. What I Gained :
+2. Suggestion For Improvement :
+3. Personal Reflective :
