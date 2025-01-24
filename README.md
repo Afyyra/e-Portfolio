@@ -54,7 +54,7 @@
 + Setiausaha Badan Beruniform Puteri Islam, 2022
 + Naib Setiausaha Pengawas Pusat Sumber Sekolah, 2022
 + Peserta Decathlon Challenge, 2022
-+ Tempat Kedua : Youth Dodgeball by F7, 2024
++ Tempat Kedua : Youth Dodgeball, 2024
 
 # 📝REFLECTION
 ## MAIN
