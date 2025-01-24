@@ -8,9 +8,7 @@
 
 # 👩‍🎓PROFILE SECTION  
 ## About Me  
-- 🎓 A student at University Technology Malaysia
-- 🌟 Hoping to delve into Virtual Reality and Augmented Reality for professsional growth
-- ✨ Always stay updated with the latest technology and innovation
+My name is Nur Elisa Afira, and I am a first-year student at Universiti Teknologi Malaysia, where I am pursuing a Bachelor’s degree in Computer Science (graphic and Multimedia software) with honour. I am passionate about programming, which has led me to delve deeply into this subject, and I am eager to learn and progress academically and personally.
 
 ## Contact
 * Email : nurelisaafira@graduate.utm.my or elisa.afyyra@gmail.com
