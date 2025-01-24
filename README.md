@@ -6,8 +6,7 @@
 >- **Skills :** Soft skills and practical skills I have developed and refined throughout my studies
 >- **Reflection :** Insight on each course, summarizing what I have learned, what to improve, and the overall experience
 
-# 👩‍🎓PROFILE SECTION  
-## About Me  
+# 👩‍🎓About Me  
 My name is Nur Elisa Afira, and I am a first-year student at Universiti Teknologi Malaysia, where I am pursuing a Bachelor’s degree in Computer Science (graphic and Multimedia software) with honour. I am passionate about programming, which has led me to delve deeply into this subject, and I am eager to learn and progress academically and personally.
 
 ## Personal Interest And Future Goals
