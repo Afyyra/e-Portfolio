@@ -86,5 +86,5 @@ I am particularly keen on exploring Virtual reality and Augmented reality, and I
 
 # 📱Contact
 * Email :  nurelisaafira@graduate.utm.my or   elisa.afyyra@gmail.com
-* GitHub :  https://github.com/Afyyra
+* GitHub :   https://github.com/Afyyra
 * LinkedIn :  https://www.linkedin.com/in/nur-elisa-afira-mohd-nazir-b96ab9322
