@@ -53,7 +53,7 @@
 1. What I Gained : This course taught me about how information systems operate within a technological framework and problem solving skill
 2. Suggestion For Improvement : Incorporating more interactive and practical project would help us in applying what we learn in real life problem
 3. Personal Reflective : This course taught me the significance of technology in our lives, thus, we should know how to apply theoretical knowledge to solve real-world problems to contribute to society in advancing technology.
-## SECI1013 : Discrete Structur
+## SECI1013 : Discrete Structure
 1. What I Gained : This course help me build a solid foundation in mathematical concept that is essential to Computer Science
 2. Suggestion For Improvement : Using more interactive methods or giving more examples on how to solve problems will greatly benefit those who are slow learners.
 3. Personal Reflective : Studying this course has enhanced my critical and logical thinking . It also gave me a better understanding on how computer algorithm work.
