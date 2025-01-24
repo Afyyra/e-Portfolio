@@ -51,16 +51,16 @@
 # 📝REFLECTION
 ## SECP1513 : Technology & Information System
 1. What I Gained : This course taught me about how information systems operate within a technological framework and problem solving skill
-2. Suggestion For Improvement : Incorporating more interactive and practical project would help me understand better
+2. Suggestion For Improvement : Incorporating more interactive and practical project would help us in applying what we learn in real life problem
 3. Personal Reflective : This course taught me the significance of technology in our lives, thus, we should know how to apply theoretical knowledge to solve real-world problems to contribute to society in advancing technology.
 ## SECI1013 : Discrete Structur
-1. What I Gained :
-2. Suggestion For Improvement :
-3. Personal Reflective :
+1. What I Gained : This course help me build a solid foundation in mathematical concept that is essential to Computer Science
+2. Suggestion For Improvement : Using more interactive methods or giving more examples on how to solve problems will greatly benefit those who are slow learners.
+3. Personal Reflective : Studying this course has enhanced my critical and logical thinking . It also gave me a better understanding on how computer algorithm work.
 ## SECR1013 : Digital Logic
-1. What I Gained :
-2. Suggestion For Improvement :
-3. Personal Reflective :
+1. What I Gained : This course help me gained in depth knowledge about digital circuit and logic gates 
+2. Suggestion For Improvement : More hands-on practice with building curcuit in Deeds or ETS5000 would help us understand better
+3. Personal Reflective : Learning this make me understand how computer and electronic device work.
 ## SECJ1013 : Programming Technique 1
 1. What I Gained :
 2. Suggestion For Improvement :
