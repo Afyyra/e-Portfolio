@@ -37,7 +37,7 @@ I am particularly keen on exploring Virtual reality and Augmented reality, and I
 + SECR1013 : Digital Logic
 + [SECJ1013 : Programming Technique 1](https://github.com/Afyyra/SECJ1013)
 
-### Additional Course
+### Additional 
 + [ULRS1032 : Integrity & Anti-Corruption](https://github.com/Afyyra/ULRS1032)
 + [ULHB1112 : English Communication Skills](https://github.com/Afyyra/ULHB1112)
 + ULRF1961 : Civil Defence 1
@@ -85,6 +85,6 @@ I am particularly keen on exploring Virtual reality and Augmented reality, and I
 - **Personal Reflective :** This course helped me improve my communication skill which is valuable in both and professional setting.
 
 # 📱Contact
-* Email : nurelisaafira@graduate.utm.my or elisa.afyyra@gmail.com
-* GitHub : https://github.com/Afyyra
-* LinkedIn : https://www.linkedin.com/in/nur-elisa-afira-mohd-nazir-b96ab9322
+* Email :  nurelisaafira@graduate.utm.my or   elisa.afyyra@gmail.com
+* GitHub :  https://github.com/Afyyra
+* LinkedIn :  https://www.linkedin.com/in/nur-elisa-afira-mohd-nazir-b96ab9322
