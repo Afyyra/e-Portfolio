@@ -21,7 +21,7 @@
 + Sijil Darjah Enam Agama (SDEA) : 8A 1B, 2017
 + Ujian Pencapaian Sekolah Rendah (UPSR) : 6A, 2017
 + Sijil Darjah Khas Agama (SDKA) : Pangkat 1, 2018
-+ Sijil Pelajaran Malaysia (SPM) : 3A+ 3A 1A- 1B+ 1C, 2022
++ Sijil Pelajaran Malaysia (SPM) : 3A+ 3A 1A- 1B+ 1C, 2022/2023
 + Sijil Matrikulasi : CGPA 3.57, 2023/2024
 + Bachelor of Computer Science (Graphic and Multimedia Software) with Honours : 2024 - Present
 
