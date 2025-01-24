@@ -5,7 +5,7 @@
 - ✨ Always stay updated with the latest technology and innovation
 
 ## Contact
-* Email : nurelisaafira@graduate.utm.my
+* Email : nurelisaafira@graduate.utm.my or elisa.afyyra@gmail.com
 * GitHub : https://github.com/Afyyra
 * LinkedIn : https://www.linkedin.com/in/nur-elisa-afira-mohd-nazir-b96ab9322
 
