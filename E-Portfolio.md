@@ -1,4 +1,4 @@
-# PROFILE SECTION  
+# 👩‍🎓PROFILE SECTION  
 ## About Me  
 - 🎓 A student at University Technology Malaysia
 - 🌟 Hoping to delve into Virtual Reality and Augmented Reality for professsional growth
@@ -25,7 +25,7 @@
 + Soft Skills : Communication, Teamwork, Leadership, Problem-Solving, Time Management
 + Technical skills : Java, C++, Adobe, Canva , Microsoft 365 
 
-# COURSES
+# 📚COURSES
 ## FIRST SEMESTER
 ### Main
 + SECP1513 : Technology & Information System
@@ -38,7 +38,7 @@
 + ULHB1112 : English Communication Skills
 + ULRF1961 : Civil Defence 1
 
-# HONOURS AND AWARDS 
+# 🎖HONOURS AND AWARDS 
 + Anugerah Tokoh Pelajar, 2017
 + Tokoh Nilam, 2017
 + Anugerah Cemerlang Tempat Pertama, 2015-2022
@@ -48,5 +48,5 @@
 + Peserta Decathlon Challenge, 2022
 + Tempat Kedua : Youth Dodgeball by F7, 2024
 
-# REFLECTION
+# 📝REFLECTION
 ##
