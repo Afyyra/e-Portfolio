@@ -25,9 +25,9 @@ I am particularly keen on exploring Virtual reality and Augmented reality, and I
 + Muet : **Band 3.5**
 
 ## Skills
-+ Soft Skills : Communication, Teamwork, Leadership, Problem-Solving, Time Management
-+ Technical skills : Java, C++, Adobe, Canva , Microsoft 365 
-+ Language skills : English, Malay, Japanese(basic)
++ Soft Skills : **Communication, Teamwork, Leadership, Problem-Solving, Time Management**
++ Technical skills : **Java, C++, Adobe, Canva , Microsoft 365** 
++ Language skills : **English, Malay, Japanese(basic)**
 
 # 📚COURSES
 ## FIRST SEMESTER
