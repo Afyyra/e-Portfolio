@@ -14,7 +14,6 @@ My name is Nur Elisa Afira, and I am a first-year student at Universiti Teknolog
 I am particularly keen on exploring Virtual reality and Augmented reality, and I am committed to leveraging my education to make meaningful contributions to technology development. 
 
 ## Academic Journey And Achievement
-+ Ujian Penilaian Kelas Kafa (UPKK) : **7A 1B, 2016**
 + Sijil Darjah Enam Agama (SDEA) : **8A 1B, 2017**
 + Ujian Pencapaian Sekolah Rendah (UPSR) : **6A, 2017**
 + Sijil Darjah Khas Agama (SDKA) : **Pangkat 1, 2018**
