@@ -50,9 +50,9 @@
 
 # 📝REFLECTION
 ## SECP1513 : Technology & Information System
-1. What I Gained :
-2. Suggestion For Improvement :
-3. Personal Reflective :
+1. What I Gained : This course taught me about how information systems operate within a technological framework and problem solving skill
+2. Suggestion For Improvement : Incorporating more interactive and practical project would help me understand better
+3. Personal Reflective : This course taught me the significance of technology in our lives, thus, we should know how to apply theoretical knowledge to solve real-world problems to contribute to society in advancing technology.
 ## SECI1013 : Discrete Structur
 1. What I Gained :
 2. Suggestion For Improvement :
